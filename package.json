@@ -29,7 +29,7 @@
     "@graphql-codegen/cli": "^1.21.4",
     "@graphql-codegen/typescript": "^1.21.1",
     "@graphql-codegen/typescript-graphql-request": "^3.2.0",
-    "@graphql-codegen/typescript-operations": "^1.17.16",
+    "@graphql-codegen/typescript-operations": "^2.5.12",
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.58",
     "@next/bundle-analyzer": "^10.2.3",
